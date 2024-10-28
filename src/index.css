@@ -1,0 +1,13 @@
+body{
+  background: #000000c7;
+  color: aliceblue;
+  text-align: center;
+  /* font-weight: 700; */
+  font-family: sans-serif;
+}
+.boxes{
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  margin: 80px;
+  padding: 20px;
+}
